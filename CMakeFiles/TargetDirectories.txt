@@ -1,0 +1,14 @@
+E:/mve_recon/mvs-texturing/CMakeFiles/INSTALL.dir
+E:/mve_recon/mvs-texturing/CMakeFiles/ALL_BUILD.dir
+E:/mve_recon/mvs-texturing/CMakeFiles/ZERO_CHECK.dir
+E:/mve_recon/mvs-texturing/elibs/CMakeFiles/ext_rayint.dir
+E:/mve_recon/mvs-texturing/elibs/CMakeFiles/INSTALL.dir
+E:/mve_recon/mvs-texturing/elibs/CMakeFiles/ext_eigen.dir
+E:/mve_recon/mvs-texturing/libs/CMakeFiles/INSTALL.dir
+E:/mve_recon/mvs-texturing/libs/tex/CMakeFiles/tex.dir
+E:/mve_recon/mvs-texturing/libs/tex/CMakeFiles/INSTALL.dir
+E:/mve_recon/mvs-texturing/libs/mrf/CMakeFiles/mrf.dir
+E:/mve_recon/mvs-texturing/libs/mrf/CMakeFiles/INSTALL.dir
+E:/mve_recon/mvs-texturing/apps/CMakeFiles/INSTALL.dir
+E:/mve_recon/mvs-texturing/apps/texrecon/CMakeFiles/texrecon.dir
+E:/mve_recon/mvs-texturing/apps/texrecon/CMakeFiles/INSTALL.dir

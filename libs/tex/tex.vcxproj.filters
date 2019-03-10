@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\build_adjacency_graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\build_obj_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\calculate_data_costs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\generate_debug_embeddings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\generate_texture_atlases.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\generate_texture_patches.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\generate_texture_views.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\global_seam_leveling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\histogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\local_seam_leveling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\material_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\obj_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\partition_mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\poisson_blending.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\prepare_mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\rectangular_bin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\seam_leveling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\texture_atlas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\texture_patch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\tri.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\uni_graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mvs-texturing\libs\tex\view_selection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nnf_patch_search.cpp" />
+    <ClCompile Include="generate_nnf.cpp" />
+    <ClCompile Include="texture_view.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\histogram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\material_lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\obj_model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\poisson_blending.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\progress_counter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\rect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\rectangular_bin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\seam_leveling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\sparse_table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\texture_atlas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\texture_patch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\texturing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\tri.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\uni_graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mvs-texturing\libs\tex\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="generate_nnf.h" />
+    <ClInclude Include="texture_view.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\mve_recon\mvs-texturing\libs\tex\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A552EF15-C096-3763-8CD1-3C5D3A08A9C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F5E02264-2720-3F16-B990-84E08FB86444}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
